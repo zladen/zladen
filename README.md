@@ -66,15 +66,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zladen&theme=algolia)
 
-<a href="http://www.github.com/zladen"><img src="https://github-readme-stats.vercel.app/api?username=zladen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zladen's GitHub stats" /></a>
 
-<a href="http://www.github.com/zladen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zladen&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/zladen"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=zladen&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/zladen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zladen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zladen&theme=algolia" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zladen&theme=algolia" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zladen&theme=algolia" alt=""/>
 </div>
-
 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
