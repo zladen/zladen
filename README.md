@@ -67,10 +67,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zladen&theme=algolia)
 
 
-<div id="stat" align="center">
+<div id="My GitHub Stats" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zladen&theme=algolia" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zladen&theme=algolia" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zladen&theme=algolia" alt=""/>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zladen&theme=algolia" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zladen&theme=algolia" alt=""/>
 </div>
 
 
