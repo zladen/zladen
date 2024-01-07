@@ -56,7 +56,10 @@
 
 ---
 
-<div align="center">My GitHub Stats</div>
+<div align="center">
+  
+  ### My GitHub Stats
+</div>
 
 <div id="My GitHub Stats" align="center">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zladen&theme=algolia" alt=""/>
