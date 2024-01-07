@@ -6,7 +6,6 @@
   </h1>
 </div>
 
-=============================================================================================================================
 :man_technologist:<p paddin="0" margin="0">Web developer since 2020, started with learning HTML and CSS, gradually transitioning to JavaScript and the React library. Completed training on Udemy and Skillbox platforms, where I additionally mastered Git, TypeScript, Redux, and other technologies.</p> <p paddin="0" margin="0">💻 My interests are becoming versatile, and I am aiming to become a full stack developer. My current learning plan includes a deep dive into Node.js and the Express framework for effective server-side application development.</p> <p paddin="0" margin="0">🚀 Actively involved in the development of the open-source project GoWithMe. My responsibilities include designing the user interface and developing the server-side of the application.</p> <p paddin="0" margin="0">🌐 I plan to focus on the development of a full stack of technologies to more fully participate in the life cycle of application development.</p>
    
 ---
